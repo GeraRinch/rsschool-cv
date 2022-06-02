@@ -24,3 +24,4 @@ I'm a student.
 
 ## Languages
 - Russian - Native
+- English - Beginner
